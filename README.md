@@ -19,6 +19,7 @@ Hindi Speech Emotion Recognition using synthetic data augmentation (HuBERT embed
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aaditya-Jain-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![]
 ![](https://github-readme-stats.shion.dev/api?username=Aaditya-Jain-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya-jain-01&" alt="aaditya-jain-01" /></p>
 
@@ -47,14 +48,4 @@ Hindi Speech Emotion Recognition using synthetic data augmentation (HuBERT embed
     <td align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/><br/>Unity</td>
   </tr>
 </table>
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaditya-jain-01&show_icons=true&locale=en&layout=compact" alt="aaditya-jain-01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaditya-jain-01&show_icons=true&locale=en" alt="aaditya-jain-01" /></p>
-
-
 
