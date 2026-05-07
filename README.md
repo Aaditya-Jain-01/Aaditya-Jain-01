@@ -36,10 +36,10 @@ Hindi Speech Emotion Recognition using synthetic data augmentation (HuBERT embed
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br/>MongoDB</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/>MySQL</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/><br/>OpenCV</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/><br/>PyTorch</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br/>Pandas</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/><br/>PyTorch</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br/>React</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/><br/>Scikit‑Learn</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/><br/>TensorFlow</td>
