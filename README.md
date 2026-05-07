@@ -1,13 +1,13 @@
 # 💫 About Me:
 Hindi Speech Emotion Recognition using synthetic data augmentation (HuBERT embeddings + Gaussian interpolation).<br>Machine Learning projects in speech, vision, or energy optimization — especially GenAI and multimodal applications.<br>Scaling ML pipelines to production and integrating cloud‑based deployment (Google Cloud, Vertex AI).<br>Generative AI app development with Gemini, multimodal RAG, and advanced prompt design.<br>Facial landmark detection, synthetic data generation, microgrid optimization, or drowsy driver detection systems.<br>My drowsiness detection model hit 96% accuracy on yawn detection — and I once used Twilio to auto‑text myself when I looked sleepy on camera!<br>
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaditya-jain-712422288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadityajain125@gmail.com) 
 
 
-## 📫 How to reach me **Email: aadityajain125@gmail.com | Phone: +91 79747 72806**
+#### 📫 How to reach me **Email: aadityajain125@gmail.com | Phone: +91 79747 72806**
 
-## 📄 Know about my experiences [https://drive.google.com/drive/folders/1PHtWSiPXZjskp9HYnHJG4AdbpGl67Zjq](https://drive.google.com/drive/folders/1PHtWSiPXZjskp9HYnHJG4AdbpGl67Zjq)
+#### 📄 Know about my experiences [https://drive.google.com/drive/folders/1PHtWSiPXZjskp9HYnHJG4AdbpGl67Zjq](https://drive.google.com/drive/folders/1PHtWSiPXZjskp9HYnHJG4AdbpGl67Zjq)
 
 
 <div align="center">
