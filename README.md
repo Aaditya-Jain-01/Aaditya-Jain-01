@@ -9,6 +9,7 @@ Hindi Speech Emotion Recognition using synthetic data augmentation (HuBERT embed
 
 ### 📄 Know about my experiences [https://drive.google.com/drive/folders/1PHtWSiPXZjskp9HYnHJG4AdbpGl67Zjq](https://drive.google.com/drive/folders/1PHtWSiPXZjskp9HYnHJG4AdbpGl67Zjq)
 
+### 👨‍💻 All of my projects are available at [https://github.com/Aaditya-Jain-01](https://github.com/Aaditya-Jain-01)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
