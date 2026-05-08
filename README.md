@@ -1,5 +1,14 @@
-# 💫 About Me:
-Hindi Speech Emotion Recognition using synthetic data augmentation (HuBERT embeddings + Gaussian interpolation).<br>Machine Learning projects in speech, vision, or energy optimization — especially GenAI and multimodal applications.<br>Scaling ML pipelines to production and integrating cloud‑based deployment (Google Cloud, Vertex AI).<br>Generative AI app development with Gemini, multimodal RAG, and advanced prompt design.<br>Facial landmark detection, synthetic data generation, microgrid optimization, or drowsy driver detection systems.<br>My drowsiness detection model hit 96% accuracy on yawn detection — and I once used Twilio to auto‑text myself when I looked sleepy on camera!<br>
+
+# 💫 About Me  
+
+I’m **Aaditya Jain**, a Computer Science engineer from VIT Chennai specializing in **AI & Machine Learning**. My academic journey and hands‑on projects span **speech, vision, and energy optimization**, backed by industry internship experience and peer‑reviewed research.  
+
+
+- 📄 **Research & Publications:** IEEE paper on *Facial Landmark‑based Drowsy Driver Detection* (96% accuracy) and IGI Global book chapter on *Machine Learning for Microgrids*.  
+- 🌱 **Learning & Certifications:** Generative AI app development with Gemini, multimodal RAG, and advanced prompt design (Google Cloud, Stanford, Microsoft, IBM certified).  
+- 🤝 **Collaboration interests:** ML projects in computer vision, speech processing, and renewable energy optimization.  
+- ☁️ **Cloud expertise:** Scaling ML pipelines to production with Google Cloud & Vertex AI.  
+- ⚡ **Fun fact:** My drowsiness detection model once auto‑texted me via Twilio when I looked sleepy on camera!  
 
 
 
