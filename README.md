@@ -20,7 +20,7 @@ Hindi Speech Emotion Recognition using synthetic data augmentation (HuBERT embed
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aaditya-Jain-01&theme=dark&hide_border=false&layout=compact)<br/>
+![](https://streak-stats.demolab.com/?user=Aaditya-Jain-01&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api?username=Aaditya-Jain-01&theme=dark&hide_border=false)<br/>
 
